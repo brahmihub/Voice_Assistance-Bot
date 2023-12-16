@@ -1,7 +1,7 @@
 # Voice_Assistance-Bot
 *a System tray Based Assistance Bot can do automation functions aswell as answering questions Like:*</br>
 *Say bot's name and function you want*</br>
-*
+
 *-hello: says hello</br>*
 *-google: will search what you want and open first link automaticly</br>*
 *-song or play: plays the song you mention</br>*
